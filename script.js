@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://health-scanner-api.onrender.com'; 
+const API_BASE_URL = 'https://health-scanner-api.onrender.com/api/product/'; 
 
 // --- DOM Elements ---
 const inputSection = document.getElementById('input-section');
